@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Darrion.
+- 🌱 I’m currently learning React.js
+- 📫 You can reach me at darrionwebdev@gmail.com
